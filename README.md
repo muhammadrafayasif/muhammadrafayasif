@@ -9,7 +9,7 @@
 I'm a second-year Computer Science undergraduate passionate about technology, programming, and problem-solving. I'm currently exploring various fields including web development, data structures, and algorithms, and working on personal projects to sharpen my skills.
 
 - 🎓 CS Student @ NEDUET
-- 🌱 Currently learning: Machine Learning, Data Science, React
+- 🌱 Currently learning: `Machine Learning` | `Data Science`  | `Microsoft Azure` | `React`
 - 🤝 Open to collaborating on: Beginner-friendly open-source projects
 
 ---
@@ -37,8 +37,8 @@ I'm a second-year Computer Science undergraduate passionate about technology, pr
 
 ## 📫 Connect with Me
 
-- 📧 Email: [muhammadrafay3561@gmail.com]
-- 💼 LinkedIn: [https://linkedin.com/in/muhammadrafayasif]
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muhammadrafay3561@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadrafayasif)
 
 ---
 
