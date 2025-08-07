@@ -12,9 +12,6 @@ I'm a second-year Computer Science undergraduate passionate about technology, pr
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
   ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-- 🤝 Collaborated with:
-    - QtSnake
-    - Up-for-grabs
 ---
 
 ## 💻 Tech Stack
