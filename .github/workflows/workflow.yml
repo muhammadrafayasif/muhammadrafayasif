@@ -23,6 +23,7 @@ jobs:
           plugin_languages_sections: recently-used
           plugin_languages_recent_load: 400
           plugin_languages_recent_days: 14
+          token: ${{ secrets.API_KEY }}
       - uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.notable.svg
