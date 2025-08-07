@@ -9,9 +9,14 @@
 I'm a second-year Computer Science undergraduate passionate about technology, programming, and problem-solving. I'm currently exploring various fields including web development, data structures, and algorithms, and working on personal projects to sharpen my skills.
 
 - 🎓 CS Student @ NEDUET
-- 🌱 Currently learning: `Machine Learning` | `Data Science`  | `Microsoft Azure` | `React`
-- 🤝 Open to collaborating on: Beginner-friendly open-source projects
-
+- 🌱 Currently learning:
+  
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+- 🤝 Collaborated with:
+    - QtSnake
+    - Up-for-grabs
 ---
 
 ## 💻 Tech Stack
