@@ -1,8 +1,6 @@
 # 👋 Hi, I'm Muhammad Rafay Asif
 
-### CS Sophomore @ NEDUET | Aspiring Web Developer & Data Scientist
-
----
+![Metrics](/github-metrics.svg)
 
 ## 🧠 About Me
 
@@ -45,13 +43,6 @@ I'm a second-year Computer Science undergraduate passionate about technology, pr
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![Microsoft Access](https://img.shields.io/badge/Microsoft%20Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)
-
----
-
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadrafayasif&theme=dark&show_icons=true&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadrafayasif&theme=dark&show_icons=true&hide_border=true&layout=compact)
-
 
 ---
 
