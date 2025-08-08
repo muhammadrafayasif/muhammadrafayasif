@@ -13,6 +13,8 @@ I'm a second-year Computer Science undergraduate passionate about technology, pr
   ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
 ![Metrics](/github-metrics.svg)
+
+![Contributions](/metrics.plugin.notable.svg)
 ---
 
 ## 💻 Tech Stack
