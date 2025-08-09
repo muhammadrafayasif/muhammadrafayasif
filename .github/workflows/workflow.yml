@@ -19,17 +19,22 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          # Your PAT with repo + read:user + read:org permissions
           token: ${{ secrets.API_KEY }}
 
+          # Base content
           base: header, activity, community, repositories, metadata
 
+          # Languages plugin (recent usage)
           plugin_languages: yes
           plugin_languages_sections: recently-used
           plugin_languages_recent_load: 400
           plugin_languages_recent_days: 14
 
+          # Notable repos plugin
           plugin_notable: yes
           plugin_notable_filter: stars:>=1
-          commits_authoring: muhammadrafayasif, muhammadrafay3561@gmail.com
+          commits_authoring: muhammadrafayasif, muhammadrafay3561@gmail.com, rafay4730069@cloud.neduet.edu.pk
 
+          # Output file
           filename: metrics.svg
