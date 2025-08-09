@@ -1,11 +1,14 @@
 name: Metrics
 on:
   # Schedule daily updates
-  schedule: [{cron: "0 0 * * *"}]
-  # (optional) Run workflow manually
+  schedule:
+    - cron: "0 0 * * *"
+  # Run workflow manually
   workflow_dispatch:
-  # (optional) Run workflow when pushing on master/main
-  push: {branches: ["master", "main"]}
+  # Run workflow when pushing to master/main
+  push:
+    branches: ["master", "main"]
+
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
@@ -16,19 +19,22 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          # Your PAT with repo + read:user + read:org permissions
           token: ${{ secrets.API_KEY }}
-      - uses: lowlighter/metrics@latest
-        with:
+
+          # Base content
+          base: header, activity, community, repositories, metadata
+
+          # Languages plugin (recent usage)
           plugin_languages: yes
           plugin_languages_sections: recently-used
           plugin_languages_recent_load: 400
           plugin_languages_recent_days: 14
-          token: ${{ secrets.API_KEY }}
-      - uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.notable.svg
-          token: ${{ secrets.API_KEY }}
-          base: ""
+
+          # Notable repos plugin
           plugin_notable: yes
-          plugin_notable_filter: stars:>1
-          commits_authoring: muhammadrafayasif, [other emails]
+          plugin_notable_filter: stars:>=1
+          commits_authoring: muhammadrafayasif, email1@example.com, email2@example.com
+
+          # Output file
+          filename: metrics.svg
