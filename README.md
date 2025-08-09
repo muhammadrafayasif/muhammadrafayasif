@@ -12,9 +12,7 @@ I'm a second-year Computer Science undergraduate passionate about technology, pr
   ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
   ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
-![Metrics](/github-metrics.svg)
-
-![Contributions](/metrics.plugin.notable.svg)
+![metrics](/metrics.svg)
 ---
 
 ## 💻 Tech Stack
