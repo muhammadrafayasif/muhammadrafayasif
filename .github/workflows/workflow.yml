@@ -29,5 +29,6 @@ jobs:
           filename: metrics.plugin.notable.svg
           token: ${{ secrets.API_KEY }}
           base: ""
-          plugin_notable_filter:
           plugin_notable: yes
+          plugin_notable_filter: stars:>1
+          commits_authoring: muhammadrafayasif, [other emails]
