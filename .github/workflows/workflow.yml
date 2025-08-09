@@ -18,21 +18,18 @@ jobs:
         with:
           token: ${{ secrets.API_KEY }}
 
-          # Base content sections
           base: header, activity, community, repositories, metadata
 
-          # Languages plugin
           plugin_languages: yes
           plugin_languages_sections: recently-used
           plugin_languages_recent_load: 400
           plugin_languages_recent_days: 14
 
-          # Notable repos plugin
           plugin_notable: yes
-          plugin_notable_filter: stars:>=4
+          plugin_notable_filter:
           plugin_notable_self: yes
           plugin_notable_organizations: yes
+          plugin_notable_owner_account_types: organization,user
           commits_authoring: muhammadrafayasif, muhammadrafay3561@gmail.com, rafay4730069@cloud.neduet.edu.pk
 
-          # Output filename
           filename: metrics.svg
