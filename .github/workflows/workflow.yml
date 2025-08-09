@@ -33,7 +33,8 @@ jobs:
 
           # Notable repos plugin
           plugin_notable: yes
-          plugin_notable_filter: stars:>=1
+          plugin_notable_filter: stars:>=4
+          plugin_notable_self: yes
           commits_authoring: muhammadrafayasif, muhammadrafay3561@gmail.com, rafay4730069@cloud.neduet.edu.pk
 
           # Output file
