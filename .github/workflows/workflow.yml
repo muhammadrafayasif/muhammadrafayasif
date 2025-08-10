@@ -26,10 +26,11 @@ jobs:
           plugin_languages_recent_days: 14
 
           plugin_notable: yes
-          plugin_notable_filter:
-          plugin_notable_self: yes
-          plugin_notable_organizations: yes
-          plugin_notable_owner_account_types: organization,user
+          plugin_notable_filter: stars>3
+          plugin_notable_indepth: yes
+          plugin_notable_repositories: yes
+          plugin_notable_from: all
+          plugin_notable_types: commit, pull_request, issue
           commits_authoring: muhammadrafayasif, muhammadrafay3561@gmail.com, rafay4730069@cloud.neduet.edu.pk
 
           filename: metrics.svg
