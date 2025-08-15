@@ -31,7 +31,7 @@ jobs:
           plugin_notable_repositories: yes
           plugin_notable_from: all
           plugin_notable_skipped:
-            - first contributions/first-contributions
+            - firstcontributions/first-contributions
           plugin_notable_types: commit, pull_request, issue
           commits_authoring: muhammadrafayasif, muhammadrafay3561@gmail.com, rafay4730069@cloud.neduet.edu.pk
 
