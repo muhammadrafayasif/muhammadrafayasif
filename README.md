@@ -44,7 +44,6 @@ I'm a second-year Computer Science undergraduate passionate about technology, pr
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![Access](https://img.shields.io/badge/Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)
-[![Google Analytics](https://img.shields.io/badge/Google%20Analytics-Tracking%20Enabled-orange?logo=google-analytics&logoColor=white)](https://analytics.google.com/)
 
 ---
 
