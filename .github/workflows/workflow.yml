@@ -28,8 +28,6 @@ jobs:
           plugin_notable: yes
           plugin_notable_filter: stars>3
           plugin_notable_indepth: yes
-          repositories_skipped: 
-            - firstcontributions/first-contributions
           plugin_notable_repositories: yes
           plugin_notable_from: all
           plugin_notable_types: commit, pull_request, issue
