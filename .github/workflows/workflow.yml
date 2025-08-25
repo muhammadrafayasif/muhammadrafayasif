@@ -31,6 +31,12 @@ jobs:
           plugin_notable_repositories: yes
           plugin_notable_from: all
           plugin_notable_types: commit, pull_request, issue
+          plugin_notable_exclude: first-contributions
           commits_authoring: muhammadrafayasif, muhammadrafay3561@gmail.com, rafay4730069@cloud.neduet.edu.pk
 
           filename: metrics.svg
+
+      - name: Trim repo names in metrics.svg
+        run: |
+          # This removes the @owner/ part from repository names
+          sed -i -E 's/@[^/]+\/([^ ]+)/\1/g' metrics.svg
