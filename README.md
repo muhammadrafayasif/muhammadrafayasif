@@ -1,8 +1,6 @@
 # 👋 Hi, I'm Muhammad Rafay Asif
 <img alt="muhammadrafayasif" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" />
 
----
-
 ## 🧠 About Me
 
 I'm a second-year Computer Science undergraduate passionate about technology, programming, and problem-solving. I'm currently exploring various fields including web development, data structures, and algorithms, and working on personal projects to sharpen my skills.
@@ -10,12 +8,12 @@ I'm a second-year Computer Science undergraduate passionate about technology, pr
 - 🎓 CS Student @ NEDUET
 - 🌱 Currently learning:
   
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
   ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
+## 📊 GitHub Statistics
+
 ![metrics](/metrics.svg)
----
 
 ## 💻 Tech Stack
 
@@ -49,10 +47,6 @@ I'm a second-year Computer Science undergraduate passionate about technology, pr
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-
-
-
----
 
 ## 📫 Connect with Me
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadrafay3561@gmail.com)
