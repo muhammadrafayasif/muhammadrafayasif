@@ -2,20 +2,27 @@ name: Daily Credly Badges
 
 on:
   schedule:
-    - cron: '0 12 * * *'  # daily at 12:00 UTC
-  workflow_dispatch:       # allows manual trigger
+    - cron: '0 12 * * *'  # runs daily at 12:00 UTC
+  workflow_dispatch:       # manual trigger
 
 jobs:
-  update-badges:
+  fetch-badges:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v3
 
       - name: Fetch Credly Badges
-        uses: muhammadrafayasif/credly-badges@main
+        uses: muhammadrafayasif/credly-badges@main  # or @v1.0.0 if tagged
         with:
           credly-username: "muhammadrafayasif"
           output-path: "badges"
-          commit: "true"
-          github-token: ${{ secrets.GITHUB_TOKEN }}
+          
+      - name: Commit updated badges
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add badges/
+          git commit -m "chore: update Credly badges SVG [skip ci]" || echo "No changes to commit"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
