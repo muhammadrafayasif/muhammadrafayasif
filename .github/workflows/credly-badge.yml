@@ -18,3 +18,4 @@ jobs:
           credly-username: "muhammadrafayasif"
           output-path: "badges"
           commit: "true"
+          github-token: ${{ secrets.GITHUB_TOKEN }}
