@@ -15,6 +15,10 @@ I'm a second-year Computer Science undergraduate passionate about technology, pr
 
 ![metrics](/metrics.svg)
 
+## 🏅 Credly Badges
+
+![badges](/badges/grid.svg)
+
 ## 💻 Tech Stack
 
 **Languages:**
