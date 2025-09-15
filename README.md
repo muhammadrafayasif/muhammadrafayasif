@@ -21,6 +21,10 @@ I'm a second-year Computer Science undergraduate passionate about technology, pr
 
 ![badges](/badges/grid.svg)
 
+## 🎖️ Holopin Badges
+
+[![An image of @muhammadrafayasif's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/muhammadrafayasif)](https://holopin.io/@muhammadrafayasif)
+
 ## 💻 Tech Stack
 
 <div align="center">
