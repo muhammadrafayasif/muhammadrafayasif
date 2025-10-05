@@ -25,7 +25,9 @@ I'm a second-year Computer Science undergraduate passionate about technology, pr
 
 ## 🏅 Credly Badges
 
-![badges](/badges/grid.svg)
+<!-- START_CREDLY_BADGES -->
+
+<!-- END_CREDLY_BADGES -->
 
 ## 🎖️ Holopin Badges
 
