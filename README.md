@@ -1,9 +1,3 @@
-<p align="center">
-  <a href="https://github.com/muhammadrafayasif">
-    <img src="https://img.shields.io/badge/Go_to-My_Profile-black?style=for-the-badge&logo=github" alt="Go to Profile"/>
-  </a>
-</p>
-
 # 👋 Hi, I'm Muhammad Rafay Asif
 <div align="center">
   <img width="500" alt="muhammadrafayasif" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" />
@@ -11,7 +5,7 @@
 
 ## 🧠 About Me
 
-I'm a second-year Computer Science undergraduate passionate about technology, programming, and problem-solving. I'm currently exploring various fields including web development, data structures, and algorithms, and working on personal projects to sharpen my skills.
+I'm a second-year CS undergraduate passionate about technology, programming, and problem-solving. I'm currently exploring various fields including web development, data science, machine learning and AI also working on personal projects to sharpen my skills.
 
 - 🎓 CS Student @ NEDUET
 - 🌱 Currently learning:
