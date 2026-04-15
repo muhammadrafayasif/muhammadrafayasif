@@ -18,28 +18,22 @@ jobs:
         with:
           token: ${{ secrets.API_KEY }}
 
-          base: header, activity, repositories, metadata
+          base: header, repositories, metadata
 
           config_display: large
           config_padding: 0
           config_timezone: Asia/Karachi
 
           plugin_notable: yes
-          plugin_notable_filter: stars>2
+          plugin_notable_filter: stars>0
           plugin_notable_indepth: yes
           plugin_notable_repositories: yes
           plugin_notable_from: all
 
-          plugin_activity: yes
-          plugin_activity_limit: 5
-          plugin_activity_days: 7
-
-          plugin_repositories: yes
-          plugin_repositories_featured: yes
-          plugin_repositories_featured_count: 4
-
           commits_authoring: muhammadrafayasif, muhammadrafay3561@gmail.com, rafay4730069@cloud.neduet.edu.pk
 
+          plugin_activity: no
+          plugin_repositories_featured: no
           plugin_languages: no
           plugin_achievements: no
           plugin_topics: no
