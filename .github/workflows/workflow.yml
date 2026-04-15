@@ -32,7 +32,8 @@ jobs:
 
           commits_authoring: muhammadrafayasif, muhammadrafay3561@gmail.com, rafay4730069@cloud.neduet.edu.pk
 
-          plugin_activity: no
+          plugin_activity: yes
+          
           plugin_repositories_featured: no
           plugin_languages: no
           plugin_achievements: no
