@@ -47,6 +47,16 @@ I'm a second-year CS undergraduate passionate about technology, programming, and
   <img src="https://holopin.me/muhammadrafayasif" />
 </details>
 
+<details>
+  <summary>
+    Microsoft Learn Badges
+  </summary>
+  <br/>
+  <!-- START_MICROSOFT_LEARN_BADGES -->
+  
+  <!-- END_MICROSOFT_LEARN_BADGES -->
+</details>
+
 ## Technical Skills
 
 <table align="center">
