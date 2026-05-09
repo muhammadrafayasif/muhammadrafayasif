@@ -1,0 +1,29 @@
+name: Daily Microsoft Learn Badges
+
+on:
+  schedule:
+    - cron: '0 12 * * *'  # runs daily at 12:00 UTC
+  workflow_dispatch:       # manual trigger
+
+jobs:
+  fetch-badges:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Fetch Microsoft Learn Badges
+        uses: muhammadrafayasif/mslearn-badges@main
+        with:
+          mslearn-username: "muhammadrafayasif"
+          
+      - name: Commit updated badges
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore: update Microsoft Learn badges [skip ci]" || echo "No changes to commit"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
