@@ -53,8 +53,8 @@ I'm a second-year CS undergraduate passionate about technology, programming, and
   </summary>
   <br/>
   <!-- START_MICROSOFT_LEARN_BADGES -->
-  
-  <!-- END_MICROSOFT_LEARN_BADGES -->
+<table border="0" cellspacing="0" cellpadding="0" width="800"><tr><td align="center" width="200"><a href="https://learn.microsoft.com/en-us/users/muhammadrafayasif"><img src="https://learn.microsoft.com/en-us/training/achievements/create-machine-learning-models.svg" height="100"/></a><br/><sub><b>Create machine learning models</b></sub></td><td align="center" width="200"><a href="https://learn.microsoft.com/en-us/users/muhammadrafayasif"><img src="https://learn.microsoft.com/en-us/training/achievements/train-and-evaluate-deep-learning-models.svg" height="100"/></a><br/><sub><b>Train and evaluate deep learning models</b></sub></td><td align="center" width="200"><a href="https://learn.microsoft.com/en-us/users/muhammadrafayasif"><img src="https://learn.microsoft.com/en-us/training/achievements/train-and-evaluate-regression-models.svg" height="100"/></a><br/><sub><b>Train and evaluate regression models</b></sub></td><td align="center" width="200"><a href="https://learn.microsoft.com/en-us/users/muhammadrafayasif"><img src="https://learn.microsoft.com/en-us/training/achievements/train-and-evaluate-clustering-models.svg" height="100"/></a><br/><sub><b>Train and evaluate clustering models</b></sub></td></tr></table><table border="0" cellspacing="0" cellpadding="0" width="800"><tr><td align="center" width="200"><a href="https://learn.microsoft.com/en-us/users/muhammadrafayasif"><img src="https://learn.microsoft.com/en-us/training/achievements/explore-and-analyze-data-with-python.svg" height="100"/></a><br/><sub><b>Explore and analyze data with Python</b></sub></td><td align="center" width="200"><a href="https://learn.microsoft.com/en-us/users/muhammadrafayasif"><img src="https://learn.microsoft.com/en-us/training/achievements/train-and-evaluate-classification-models.svg" height="100"/></a><br/><sub><b>Train and evaluate classification models</b></sub></td></tr></table>
+<!-- END_MICROSOFT_LEARN_BADGES -->
 </details>
 
 ## Technical Skills
