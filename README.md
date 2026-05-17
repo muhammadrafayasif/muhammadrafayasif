@@ -22,6 +22,7 @@ I'm a second-year CS undergraduate passionate about technology, programming, and
   </summary>
   <br/>
   <!-- START_CREDLY_BADGES -->
+<a href="https://www.credly.com/badges/f29c7f05-0032-48e4-bdeb-4f296c3d93d5"><img src="https://wsrv.nl/?url=https://images.credly.com/images/0b476bd4-bb81-4eaf-9464-8c54451fa7ee/blob" alt="Credly Badge" width="100"/></a>
 <a href="https://www.credly.com/badges/43669da3-1130-4db5-a8fe-306d739cb853"><img src="https://wsrv.nl/?url=https://images.credly.com/images/ee3ee65e-f3a4-4dcf-8cf4-e5a19ba89fe5/blob" alt="Credly Badge" width="100"/></a>
 <a href="https://www.credly.com/badges/7806219c-f1a9-4335-bd83-92d7e7812dc3"><img src="https://wsrv.nl/?url=https://images.credly.com/images/6eb08161-0425-4fc0-b66c-a1138dee7953/image.png" alt="Credly Badge" width="100"/></a>
 <a href="https://www.credly.com/badges/e8565dd7-0725-42cf-bd1d-6d82edda4651"><img src="https://wsrv.nl/?url=https://images.credly.com/images/1dc40257-c856-4e6b-9a92-29be936a9e7c/image.png" alt="Credly Badge" width="100"/></a>
