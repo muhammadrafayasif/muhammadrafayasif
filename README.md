@@ -22,6 +22,10 @@ I'm a second-year CS undergraduate passionate about technology, programming, and
   </summary>
   <br/>
   <!-- START_CREDLY_BADGES -->
+<a href="https://www.credly.com/badges/de98df03-ba42-481a-9c5e-0f4105bf5bf3"><img src="https://wsrv.nl/?url=https://images.credly.com/images/7e854d65-d59d-45ad-9d4d-89d627087c08/blob" alt="Credly Badge" width="100"/></a>
+<a href="https://www.credly.com/badges/e4631341-45d8-4537-972f-3f5e3ac1ebff"><img src="https://wsrv.nl/?url=https://images.credly.com/images/34ac978e-748e-4e7e-9227-34e0746716c8/blob" alt="Credly Badge" width="100"/></a>
+<a href="https://www.credly.com/badges/ca4da3b7-5b3a-4721-9ad6-2384b9b96363"><img src="https://wsrv.nl/?url=https://images.credly.com/images/3d5a1839-d1dc-4821-b58e-3a274b610f37/blob" alt="Credly Badge" width="100"/></a>
+<a href="https://www.credly.com/badges/46c78f44-0e84-4699-ae04-6e661e7ef233"><img src="https://wsrv.nl/?url=https://images.credly.com/images/5bd2d506-c95c-4766-a5b1-8da62a3a23b2/blob" alt="Credly Badge" width="100"/></a>
 <a href="https://www.credly.com/badges/f29c7f05-0032-48e4-bdeb-4f296c3d93d5"><img src="https://wsrv.nl/?url=https://images.credly.com/images/0b476bd4-bb81-4eaf-9464-8c54451fa7ee/blob" alt="Credly Badge" width="100"/></a>
 <a href="https://www.credly.com/badges/43669da3-1130-4db5-a8fe-306d739cb853"><img src="https://wsrv.nl/?url=https://images.credly.com/images/ee3ee65e-f3a4-4dcf-8cf4-e5a19ba89fe5/blob" alt="Credly Badge" width="100"/></a>
 <a href="https://www.credly.com/badges/7806219c-f1a9-4335-bd83-92d7e7812dc3"><img src="https://wsrv.nl/?url=https://images.credly.com/images/6eb08161-0425-4fc0-b66c-a1138dee7953/image.png" alt="Credly Badge" width="100"/></a>
