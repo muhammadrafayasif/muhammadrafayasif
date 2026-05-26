@@ -13,6 +13,7 @@ I'm a second-year CS undergraduate passionate about technology, programming, and
   
   ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
   ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+  ![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ## Achievements
 
@@ -47,14 +48,6 @@ I'm a second-year CS undergraduate passionate about technology, programming, and
 
 <details>
   <summary>
-    Holopin Badges
-  </summary>
-  <br/>
-  <img src="https://holopin.me/muhammadrafayasif" />
-</details>
-
-<details>
-  <summary>
     Microsoft Learn Badges
   </summary>
   <br/>
@@ -66,6 +59,14 @@ I'm a second-year CS undergraduate passionate about technology, programming, and
 <a href="learn.microsoft.com/en-us/users/muhammadrafayasif/achievements"><img alt="Explore and analyze data with Python" src="https://learn.microsoft.com/en-us/training/achievements/explore-and-analyze-data-with-python.svg" height="100"/></a>
 <a href="learn.microsoft.com/en-us/users/muhammadrafayasif/achievements"><img alt="Train and evaluate classification models" src="https://learn.microsoft.com/en-us/training/achievements/train-and-evaluate-classification-models.svg" height="100"/></a>
 <!-- END_MICROSOFT_LEARN_BADGES -->
+</details>
+
+<details>
+  <summary>
+    Holopin Badges
+  </summary>
+  <br/>
+  <img src="https://holopin.me/muhammadrafayasif" />
 </details>
 
 ## Technical Skills
@@ -120,6 +121,7 @@ I'm a second-year CS undergraduate passionate about technology, programming, and
     <td>
       <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
       <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+      <img src="https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
     </td>
   </tr>
 
