@@ -52,12 +52,12 @@ I'm a second-year CS undergraduate passionate about technology, programming, and
   </summary>
   <br/>
   <!-- START_MICROSOFT_LEARN_BADGES -->
-<a href="learn.microsoft.com/en-us/users/muhammadrafayasif/achievements"><img alt="Create machine learning models" src="https://learn.microsoft.com/en-us/training/achievements/create-machine-learning-models.svg" height="100"/></a>
-<a href="learn.microsoft.com/en-us/users/muhammadrafayasif/achievements"><img alt="Train and evaluate deep learning models" src="https://learn.microsoft.com/en-us/training/achievements/train-and-evaluate-deep-learning-models.svg" height="100"/></a>
-<a href="learn.microsoft.com/en-us/users/muhammadrafayasif/achievements"><img alt="Train and evaluate regression models" src="https://learn.microsoft.com/en-us/training/achievements/train-and-evaluate-regression-models.svg" height="100"/></a>
-<a href="learn.microsoft.com/en-us/users/muhammadrafayasif/achievements"><img alt="Train and evaluate clustering models" src="https://learn.microsoft.com/en-us/training/achievements/train-and-evaluate-clustering-models.svg" height="100"/></a>
-<a href="learn.microsoft.com/en-us/users/muhammadrafayasif/achievements"><img alt="Explore and analyze data with Python" src="https://learn.microsoft.com/en-us/training/achievements/explore-and-analyze-data-with-python.svg" height="100"/></a>
-<a href="learn.microsoft.com/en-us/users/muhammadrafayasif/achievements"><img alt="Train and evaluate classification models" src="https://learn.microsoft.com/en-us/training/achievements/train-and-evaluate-classification-models.svg" height="100"/></a>
+<a href="https://learn.microsoft.com/en-us/users/muhammadrafayasif/achievements"><img alt="Create machine learning models" src="https://learn.microsoft.com/en-us/training/achievements/create-machine-learning-models.svg" height="100"/></a>
+<a href="https://learn.microsoft.com/en-us/users/muhammadrafayasif/achievements"><img alt="Train and evaluate deep learning models" src="https://learn.microsoft.com/en-us/training/achievements/train-and-evaluate-deep-learning-models.svg" height="100"/></a>
+<a href="https://learn.microsoft.com/en-us/users/muhammadrafayasif/achievements"><img alt="Train and evaluate regression models" src="https://learn.microsoft.com/en-us/training/achievements/train-and-evaluate-regression-models.svg" height="100"/></a>
+<a href="https://learn.microsoft.com/en-us/users/muhammadrafayasif/achievements"><img alt="Train and evaluate clustering models" src="https://learn.microsoft.com/en-us/training/achievements/train-and-evaluate-clustering-models.svg" height="100"/></a>
+<a href="https://learn.microsoft.com/en-us/users/muhammadrafayasif/achievements"><img alt="Explore and analyze data with Python" src="https://learn.microsoft.com/en-us/training/achievements/explore-and-analyze-data-with-python.svg" height="100"/></a>
+<a href="https://learn.microsoft.com/en-us/users/muhammadrafayasif/achievements"><img alt="Train and evaluate classification models" src="https://learn.microsoft.com/en-us/training/achievements/train-and-evaluate-classification-models.svg" height="100"/></a>
 <!-- END_MICROSOFT_LEARN_BADGES -->
 </details>
 
