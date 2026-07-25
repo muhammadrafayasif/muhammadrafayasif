@@ -6,7 +6,9 @@
   <img src="/metrics.svg" />
 </div>
 Hey there, I'm <i><b>Muhammad Rafay Asif</b></i>, <br>
-I'm a third-year CS undergraduate passionate about technology, programming, and problem-solving. I'm currently exploring various fields including web development, data science, machine learning and AI also working on personal projects to sharpen my skills.
+I'm a third-year CS undergraduate that likes to build stuff. My interests lie towards data science, machine learning, devOps and full stack development.
+
+I'm currently deepening my understanding of various software engineering practices through personal projects and open source contributions. :)
 
 - 🎓 CS Student @ NEDUET
 - 🌱 Currently learning:
