@@ -28,20 +28,35 @@
 </p>
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/c/A8B9CC" alt="C" height="40" style="margin: 0 8px;" />
-  <img src="https://cdn.simpleicons.org/cplusplus/00599C" alt="C++" height="40" style="margin: 0 8px;" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" height="40" style="margin: 0 8px;" />
-  <img src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" height="40" style="margin: 0 8px;" />
-  <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React.js" height="40" style="margin: 0 8px;" />
-  <img src="https://cdn.simpleicons.org/express/000000" alt="Express.js" height="40" style="margin: 0 8px;" />
-  <img src="https://cdn.simpleicons.org/nextdotjs/000000" alt="Next.js" height="40" style="margin: 0 8px;" />
-  <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" height="40" style="margin: 0 8px;" />
-  <img src="https://cdn.simpleicons.org/fastapi/009688" alt="FastAPI" height="40" style="margin: 0 8px;" />
-  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" alt="Scikit-learn" height="40" style="margin: 0 8px;" />
-  <img src="https://cdn.simpleicons.org/pandas/150458" alt="Pandas" height="40" style="margin: 0 8px;" />
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" alt="MongoDB" height="40" style="margin: 0 8px;" />
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" alt="Postgres" height="40" style="margin: 0 8px;" />
-  <img src="https://cdn.simpleicons.org/firebase/FFCA28" alt="Firebase" height="40" style="margin: 0 8px;" />
-  <img src="https://cdn.simpleicons.org/vercel/000000" alt="Vercel" height="40" style="margin: 0 8px;" />
-  <img src="https://cdn.simpleicons.org/netlify/00C7B7" alt="Netlify" height="40" style="margin: 0 8px;" />
+  <img src="https://cdn.simpleicons.org/c/A8B9CC" alt="C" height="40" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/cplusplus/00599C" alt="C++" height="40" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" height="40" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" height="40" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React.js" height="40" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/express/68A063" alt="Express.js" height="40" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/nextdotjs/3178C6" alt="Next.js" height="40" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" height="40" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/fastapi/009688" alt="FastAPI" height="40" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" alt="Scikit-learn" height="40" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/pandas/150458" alt="Pandas" height="40" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" alt="MongoDB" height="40" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" alt="Postgres" height="40" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/firebase/FFCA28" alt="Firebase" height="40" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/vercel/000000" alt="Vercel" height="40" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/netlify/00C7B7" alt="Netlify" height="40" />
 </p>
