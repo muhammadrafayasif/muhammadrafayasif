@@ -14,7 +14,7 @@
 </p>
 
 <div align="center">
-  <img src="assets/metrics.svg" />
+  <img src="metrics.svg" />
 </div>
 
 ---
